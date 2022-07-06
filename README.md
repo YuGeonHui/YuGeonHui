@@ -5,7 +5,7 @@
 
 
 <div align=center>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/YuGeonHui/)
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/YuGeonHui/)
 
 ![YuGeonHui github stats](https://github-readme-stats.vercel.app/api?username=YuGeonHui&show_icons=true&theme=radical)
 </div>
