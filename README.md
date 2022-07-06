@@ -5,8 +5,11 @@
 
 
 <div align=center>
-![YuGeonHui github stats](https://github-readme-stats.vercel.app/api?username=YuGeonHui&show_icons=true&theme=radical)
-  
+
+![YuGeonHui's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuGeonHui&show_icons=true&theme=radical)
+
+
+
 ![image](https://user-images.githubusercontent.com/96224311/177575418-19dd0a86-678c-4b7b-ac0f-b0001a43e32d.png)
 ![image](https://user-images.githubusercontent.com/96224311/177575536-062399f9-cc9c-46ab-afdf-3766c0b7ad2a.png)
 ![image](https://user-images.githubusercontent.com/96224311/177575562-f30ac2dd-ad21-4e08-ab0e-00bf74738508.png)
