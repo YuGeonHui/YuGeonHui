@@ -6,8 +6,8 @@
 
 <div align=center>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YuGeonHui/)](https://www.linkedin.com/in/YuGeonHui/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YuGeonHui/)](https://www.linkedin.com/in/YuGeonHui/) 
+![image](https://user-images.githubusercontent.com/96224311/177575418-19dd0a86-678c-4b7b-ac0f-b0001a43e32d.png)
+
 
 ![YuGeonHui github stats](https://github-readme-stats.vercel.app/api?username=YuGeonHui&show_icons=true&theme=radical)
 </div>
