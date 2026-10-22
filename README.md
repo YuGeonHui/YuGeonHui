@@ -14,7 +14,7 @@
 |---|---|---|
 | **메이플 테마박스** | 넥슨코리아 · 꾸미기 전용 앱에서 생활형 앱으로 확장한 2.0.0 전면 개편 주도 (만 단위 다운로드) — Clean Architecture, 구동 시간 50% 단축 | [App Store](https://apps.apple.com/kr/app/id6471400255) |
 | **앗차 (Atcha)** | 출발지·목적지 기반 막차 경로와 출발 시점 안내. 디프만 16기 **iOS 파트장** — Clean Architecture + MVVM, Micro Feature Architecture, AlarmKit | [App Store](https://apps.apple.com/kr/app/id6747877903) · [Repo](https://github.com/Atcha-Project/Atcha-iOS) |
-| **삐삐 (Bibbi)** | 하루 한 번 가족에게 사진으로 일상 공유. 디프만 14기 **iOS 파트장(4인)** — Tuist 멀티모듈, ReactorKit. **누적 가입 1,000명 · 디프만 14기 대상** | [App Store](https://apps.apple.com/kr/app/id6475082088) · [Repo](https://github.com/YuGeonHui/14th-team5-iOS) |
+| **삐삐 (Bibbi)** | 하루 한 번 가족에게 사진으로 일상 공유. 디프만 14기 **iOS 파트장(4인)** — Tuist 멀티모듈, ReactorKit. **누적 가입 1,000명 · 디프만 14기 대상** | [App Store](https://apps.apple.com/kr/app/id6475082088) · [Repo](https://github.com/depromeet/14th-team5-iOS) |
 | **TTCare** | 에이아이포펫 · 반려동물 종합 헬스케어 앱 (만 단위 다운로드). 홈 전면 리뉴얼, 한국·일본·미국 3개국 출시, IAP 자동갱신구독 | |
 | **Tamagotchi** | SwiftUI 다마고치 앱. Swift 6 · Tuist 멀티모듈 · WidgetKit. 모든 설계 결정과 근거를 `ARCHITECTURE.md`에 기록 | [Repo](https://github.com/YuGeonHui/Tamagotchi) |
 
